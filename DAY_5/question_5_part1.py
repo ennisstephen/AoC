@@ -24,7 +24,7 @@ for line in split_by_category:
         if smaller_array:
             array_of_numbers.append(smaller_array)
     my_arrays.append(array_of_numbers)
-
+#
 seeds = my_arrays[0][0]
 seed_to_soil_map = my_arrays[1]
 soil_to_fertilizer_map = my_arrays[2]
