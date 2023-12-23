@@ -1,6 +1,5 @@
 from decimal import Decimal
 
-
 with open('input.txt', 'r') as file:
     content = file.read()
 
